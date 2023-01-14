@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Education" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:statusBarColor">@color/winter_background</item>
+        <item name="android:windowBackground">@color/winter_background</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+    <style name="transparentStatusBar1" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="android:windowBackground">@color/winter_background</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+    <style name="transparentStatusBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="android:windowBackground">@color/winter_background</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="expandedTitleTextAppearance">@style/titleStyleExpanded</item>
+        <item name="collapsedTitleTextAppearance">@style/titleStyleCollapsed</item>
+        <item name="collapsedTitleGravity">center|left</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+    <style name="titleStyleExpanded">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="titleStyleCollapsed">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="toolBarBackground">
+        <item name="android:windowBackground">@color/green</item>
+    </style>
+</resources>

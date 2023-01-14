@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="winter_background">#1F2347</color>
+    <color name="gray">#656565</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="red">#FF042E</color>
+    <color name="green">#03DA55</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#0D47A1</color>
+    <color name="light_gray">#D9D9D9</color>
+    <color name="light_green">#ABFF04</color>
+    <color name="winter_today">#E9748D</color>
+    <color name="winter_light_background">#303465</color>
+    <color name="winter_celected">#C1E6F3</color>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Education</string>
+    <string name="arrow_left">\uf060</string>
+    <string name="xmark">\uf00d</string>
+    <string name="button_test">пройти тест</string>
+    <string name="button_text">изучить материал</string>
+    <string name="title_activity_test">Test</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
